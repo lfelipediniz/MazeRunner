@@ -100,7 +100,9 @@ The program's input consists of specifying the number of rows and columns in the
 (2, 2) <br>
 </td>
 </table>
+
 ### Case 3
+
 <table align="center">
 <thead>
 <tr>
