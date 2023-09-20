@@ -50,4 +50,91 @@ The program's input consists of specifying the number of rows and columns in the
 
 #### Test case
 
+<table align="center">
+<thead>
+<tr>
+<th>Input</th>
+<th>Output</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>3 3 <br>
+1 1 1 <br>
+1 0 1 <br>
+1 1 2 <br>
+</td>
+<td> 
+(0, 0) <br>
+(0, 1)<br>
+(0, 2) <br>
+(1, 2) <br>
+(2, 2)<br>
+</td>
+</table>
+
+<table align="center">
+<thead>
+<tr>
+<th>Input</th>
+<th>Output</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>3 3 <br>
+1 1 1 <br>
+1 0 0 <br>
+1 1 2 <br>
+</td>
+<td> 
+(0, 0) <br>
+(0, 1) <br>
+(0, 2) <br>
+(1, 0) <br>
+(2, 0) <br>
+(2, 1) <br>
+(2, 2) <br>
+</td>
+</table>
+
+<table align="center">
+<thead>
+<tr>
+<th>Input</th>
+<th>Output</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>5 6 <br>
+1 1 1 1 0 1 <br>
+1 0 1 0 0 1<br>
+1 1 1 1 1 1<br>
+1 0 1 0 0 1<br>
+2 1 0 0 1 1<br>
+</td>
+<td> 
+(0, 0) <br>
+(0, 1)<br>
+(0, 2)<br>
+(0, 3)<br>
+(1, 2)<br>
+(2, 2) <br>
+(2, 3)<br>
+(2, 4)<br>
+(2, 5)<br>
+(1, 5)<br>
+(0, 5)<br>
+(3, 5)<br>
+(4, 5)<br>
+(4, 4)<br>
+(2, 1)<br>
+(2, 0)<br>
+(1, 0)<br>
+(3, 0)<br>
+(4, 0)<br>
+</td>
+</table>
+
 Project for the course "Algorithm and Data Structure" at the Institute of Mathematics and Computer Science, University of Sao Paulo
