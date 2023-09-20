@@ -44,11 +44,13 @@ make run
 make clean
 ```
 
-#### Explaining the use in more detail
+### Explaining the use in more detail
 
 The program's input consists of specifying the number of rows and columns in the matrix. Subsequently, you input all the matrix data, where 0 denotes maze walls, 1 signifies a pathway, and 2 represents the exit point of the maze.
 
-#### Test case
+### Test case
+
+### Case 1
 
 <table align="center">
 <thead>
@@ -73,6 +75,7 @@ The program's input consists of specifying the number of rows and columns in the
 </td>
 </table>
 
+### Case 2
 <table align="center">
 <thead>
 <tr>
@@ -97,7 +100,7 @@ The program's input consists of specifying the number of rows and columns in the
 (2, 2) <br>
 </td>
 </table>
-
+### Case 3
 <table align="center">
 <thead>
 <tr>
