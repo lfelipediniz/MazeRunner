@@ -1,2 +1,4 @@
 # EscapeMaze
-Solving the Maze Navigation Challenge with DFS Algorithm with Stack
+Mastering Maze Navigation Challenges Using the DFS Algorithm with a Stack
+
+
