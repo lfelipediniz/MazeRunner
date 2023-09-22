@@ -48,7 +48,7 @@ make clean
 
 The program's input consists of specifying the number of rows and columns in the matrix. Subsequently, you input all the matrix data, where 0 denotes maze walls, 1 signifies a pathway, and 2 represents the exit point of the maze.
 
-### Test case
+## Test case
 
 ### Case 1
 
@@ -142,4 +142,4 @@ The program's input consists of specifying the number of rows and columns in the
 </td>
 </table>
 
-Project for the course "Algorithm and Data Structure" at the Institute of Mathematics and Computer Science, University of Sao Paulo
+Project for the course ["Algorithm and Data Structure"](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=SSC0902) at the Institute of Mathematics and Computer Science, University of Sao Paulo
