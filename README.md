@@ -14,35 +14,35 @@ To use EscapeMaze, follow the instructions below:
 
 1. Clone the repository
 
-  ```bash
-  git clone https://github.com/lfelipediniz/EscapeMaze.git
-  ```
+    ```bash
+    git clone https://github.com/lfelipediniz/EscapeMaze.git
+    ```
 
 2. Navigate to the project directory
 
-  ```bash
-  cd EscapeMaze
-  ```
+    ```bash
+    cd EscapeMaze
+    ```
 
 ### Usage
 
 1. Compile and run the program using the provided Makefile
 
-  ```bash
-  make
-  ```
+    ```bash
+    make
+    ```
 
 2. Execute the program (with either of the two commands)
 
-  ```bash
-  make run
-  ```
+    ```bash
+    make run
+    ```
 
 3. To delete the generated files run
 
-  ```bash
-  make clean
-  ```
+    ```bash
+    make clean
+    ```
 
 ### Explaining the use in more detail
 
