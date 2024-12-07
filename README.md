@@ -1,4 +1,4 @@
-# EscapeMaze
+# MazeRunner
 
 The problem we will solve is the problem of finding a path to the end of a maze. The maze can take various forms, such as a two-dimensional grid, continuous terrain, or even a space with more than three dimensions. In our case, the maze will be like a two-dimensional chessboard. We will use the Depth First Search (DFS) algorithm to find the maze's exit. DFS is an algorithm that, among the possible paths, chooses one and continues along it until it reaches the end or exhausts all possible paths. When it reaches a "dead end," the algorithm backtracks to the last decision point and chooses the next path. It continues this process until it finds the maze's end or no more paths are available. The DFS algorithm is named after its depth-first traversal through the maze, momentarily ignoring other paths, similar to a person navigating the maze.
 ## Getting Started
