@@ -15,7 +15,7 @@ To use EscapeMaze, follow the instructions below:
 1. Clone the repository
 
     ```bash
-    git clone https://github.com/lfelipediniz/EscapeMaze.git
+    git clone https://github.com/lfelipediniz/MazeRunner.git
     ```
 
 2. Navigate to the project directory
